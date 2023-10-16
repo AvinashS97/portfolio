@@ -86,6 +86,9 @@ header nav .branding{
     margin-bottom:1rem;
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
+.btn-top{
+    margin-top: 30px;
+}
 
 .hero .right{
     margin-top: -7rem;
